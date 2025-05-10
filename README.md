@@ -1,3 +1,3 @@
 # apnacollage-demo
 apnacollage 
-name-mauli magar
+name-mauli
